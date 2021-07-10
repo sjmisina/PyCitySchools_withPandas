@@ -10,11 +10,8 @@ Here, we will find the updated School District Summary displaying average math a
 ![District Summary](/Resources/report_details/district_summary.png "School District Summary")
 
 Here are the test results per school and per grade level:
-- Math
-![Math Scores by Grade](/Resources/report_details/math_scores_by_grade.png "Math Scores by Grade")
+![Test Averages by Grade](/Resources/report_details/averages_by_grade.png "Test Averages by Grade")
 
-- Reading
-![Reading Scores by Grade](/Resources/report_details/reading_scores_by_grade.png "Reading Scores by Grade")
 
 
 
