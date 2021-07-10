@@ -7,7 +7,7 @@ With the suspicious math and reading scores removed from the district calculatio
 
 ###Results:
 Here, we will find the updated School District Summary displaying average math and reading scores, and percentage passing for the district as a whole:
-![District Summary][/Resources/report_details/district_summary.png
+![District Summary](/Resources/report_details/district_summary.png "School District Summary")
 
 
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
