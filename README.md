@@ -30,8 +30,8 @@ The updated School District Summary displaying average math and reading scores a
 ## Summary:
 
 This data shows trends in the following areas:
-* Teachers with higher budgets did not yeild higher performing students.
+* Teachers with higher budgets per student did not yeild higher overall test passing percentages.
 * Large schools (of 2000-5000 students) underperformed vs. small and medium sized schools by about 50%.
 * Charter schools are outperforming District schools by about 50% in overall passing percentage.
-* Of the top 5 performing schools, all are Charter schools.
-* Of the bottom 5 performing schools, all are District schools
+* ***Of the top 5 performing schools, all are Charter schools.***
+* ***Of the bottom 5 performing schools, all are District schools***
