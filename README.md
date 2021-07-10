@@ -25,9 +25,13 @@ The updated School District Summary displaying average math and reading scores a
 ![School Size Results](Resources/report_details/school_size_results.png "Average Scores by School Size")  
 
 - Score Averages by School Type  
--![School Type Results](Resources/report_details/school_type_results.png "Average Scores by School Type")  
-
+![School Type Results](Resources/report_details/school_type_results.png "Average Scores by School Type")  
 
 ## Summary:
 
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+This data shows trends in the following areas:
+* Teachers with higher budgets did not yeild higher performing students.
+* Large schools (of 2000-5000 students) underperformed vs. small and medium sized schools by about 50%.
+* Charter schools are outperforming District schools by about 50% in overall passing percentage.
+* Of the top 5 performing schools, all are Charter schools.
+* Of the bottom 5 performing schools, all are District schools
