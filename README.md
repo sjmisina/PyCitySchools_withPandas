@@ -6,7 +6,7 @@ We have been notified by the school board that the <code>students_complete.csv</
 With the suspicious math and reading scores removed from the district calculations, presented here is the updated school district analysis report.
 
 ### Results:
-Here, we will find the updated School District Summary displaying average math and reading scores and percentages passing for the district as a whole:  
+The updated School District Summary displaying average math and reading scores and percentages passing for the district as a whole:  
 ![District Summary](/Resources/report_details/district_summary.png "School District Summary")  
 
 - Here are the math and reading test averages per school and per grade level:  
@@ -18,6 +18,14 @@ Here, we will find the updated School District Summary displaying average math a
 - The bottom 5 performing schools by overall passing percentage are:  
 ![Bottom 5 Schools](/Resources/report_details/bottom_schools_overall.png "Bottom Five Schools")  
 
+- Score Averages by Budget per Student  
+![Spending Per Student](Resources/report_details/spending_ranges_per_student.png "Score Averages by Budget Per Student")  
+
+- Score Averages by School Size  
+![School Size Results](Resources/report_details/school_size_results.png "Average Scores by School Size")  
+
+- Score Averages by School Type  
+-![School Type Results](Resources/report_details/school_type_results.png "Average Scores by School Type")  
 
 
 ## Summary:
