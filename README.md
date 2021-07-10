@@ -13,7 +13,7 @@ Here, we will find the updated School District Summary displaying average math a
 ![Test Averages by Grade](/Resources/report_details/averages_by_grade.png "Test Averages by Grade")  
 
 - The top 5 performing schools by overall passing percentage are:  
-![Top 5 Schools](/Resources/report_details/top_schools_overall.png =200x500 "Top Five Schools")
+![Top 5 Schools](/Resources/report_details/top_schools_overall.png "Top Five Schools")
 
 - The bottom 5 performing schools by overall passing percentage are:  
 ![Bottom 5 Schools](/Resources/report_details/bottom_schools_overall.png "Bottom Five Schools")  
